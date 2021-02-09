@@ -1,0 +1,153 @@
+{
+	"data": {
+		"codigo_produto_financeiro": {
+			"string": "03114"
+		},
+		"codigo_produto_plataforma_pagamento": {
+			"string": "6ebb59d8-f711-3a50-939e-0bbaa0f54799"
+		},
+		"valor_transacao_financeira": {
+			"string": "10.01"
+		},
+		"codigo_situacao_consolidada_transferencia": {
+			"string": "ACSC"
+		},
+		"texto_mensagem_situacao_consolidada_transferencia": {
+			"string": ""
+		},
+		"data_hora_transacao_financeira": {
+			"string": "2020-11-16T12:30:36.174-03:00"
+		},
+		"codigo_identificacao_transferencia_pix": {
+			"string": "E17192451202011161530B0561C31790"
+		},
+		"texto_mensagem_transacao_financeira": {
+			"string": ""
+		},
+		"codigo_identificador_conciliacao_recebedor": {
+			"string": "67879a3429a24dbdb6e474aa754517e2"
+		},
+		"codigo_identificacao_comprovante_transacao_financeira": {
+			"string": ""
+		},
+		"data_efetivacao_operacao_agendamento": {
+			"string": ""
+		},
+		"origem": {
+			"sigla_sistema_origem": {
+				"string": "DY5"
+			},
+			"numero_agencia_conta_origem": {
+				"string": "0500"
+			},
+			"numero_conta_origem": {
+				"string": "002089215"
+			},
+			"numero_digito_verificador_conta_origem": {
+				"string": "4"
+			},
+			"numero_complemento_conta": {
+				"string": ""
+			},
+			"nome_completo_pessoa_conta_origem": {
+				"string": "Cintia Soares Camargo Nunes"
+			},
+			"numero_cpf_cnpj_origem": {
+				"string": "11543947786"
+			},
+			"codigo_tipo_pessoa_conta_origem": {
+				"string": "F"
+			},
+			"codigo_ispb_origem": {
+				"string": "17192451"
+			},
+			"nome_instituicao_financeira_origem": {
+				"string": ""
+			},
+			"codigo_tipo_conta_origem": {
+				"string": "CONTA_CORRENTE"
+			},
+			"numero_identificacao_lancamento_conta": {
+				"string": "4902774a-4436-4480-bd88-9ab35be7257f"
+			},
+			"codigo_conta_conciliacao": {
+				"string": "6ebb59d8"
+			},
+			"texto_complemento_lancamento": {
+				"string": ""
+			},
+			"codigo_motivo_lancamento": {
+				"string": ""
+			},
+			"indireto": {
+				"codigo_ispb_liquidante": {
+					"string": "60701190"
+				},
+				"numero_agencia_participante_indireto": {
+					"string": "2525"
+				},
+				"numero_conta_participante_indireto": {
+					"string": "0000594"
+				},
+				"numero_digito_verificador_participante_indireto": {
+					"string": "4"
+				}
+			}
+		},
+		"destino": {
+			"sigla_sistema_destino": {
+				"string": "DY5"
+			},
+			"numero_agencia_conta_destino": {
+				"string": "0001"
+			},
+			"numero_conta_destino": {
+				"string": "3507876"
+			},
+			"numero_digito_verificador_conta_destino": {
+				"string": "1"
+			},
+			"numero_complemento_conta": {
+				"string": ""
+			},
+			"nome_favorecido_conta_destino": {
+				"string": ""
+			},
+			"numero_cpf_cnpj_destino": {
+				"string": "11543947786"
+			},
+			"codigo_tipo_pessoa_conta_destino": {
+				"string": "F"
+			},
+			"codigo_tipo_conta_favorecido": {
+				"string": "CONTA_CORRENTE"
+			},
+			"codigo_ispb_destino": {
+				"string": "18236120"
+			},
+			"nome_instituicao_financeira_destino": {
+				"string": ""
+			},
+			"codigo_chave_dict": {
+				"string": ""
+			},
+			"texto_complemento_lancamento": {
+				"string": ""
+			},
+			"codigo_motivo_lancamento": {
+				"string": ""
+			}
+		},
+		"iniciacao": {
+			"codigo_canal_distribuicao": {
+				"string": ""
+			},
+			"codigo_operador_inclusao": {
+				"string": ""
+			},
+			"codigo_operador_autorizacao": {
+				"string": ""
+			}
+		}
+	}
+}
